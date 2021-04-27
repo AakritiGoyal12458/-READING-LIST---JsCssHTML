@@ -1,5 +1,5 @@
 let darkThemeURL = "https://bootswatch.com/4/darkly/bootstrap.min.css"
-let lightThemeURL = "https://bootswatch.com/4/minty/bootstrap.min.css"
+let lightThemeURL = "https://bootswatch.com/4/journal/bootstrap.min.css"
 
 const linkTag = document.getElementById("dark-theme-style");
 const themeToggler = document.getElementById("theme-toggler");
